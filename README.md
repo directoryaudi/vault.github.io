@@ -1,6 +1,15 @@
 #Uplaod your item on here for Alternative Directory
 
-![Screenshot 2023-10-20 200118](https://github.com/directoryaudi/vault.github.io/assets/148554900/57a057ba-7f5f-44e2-a19a-74944746ad0c)
+![Screenshot 2023-10-20 201211](https://github.com/directoryaudi/vault.github.io/assets/148554900/9878ee8d-81d2-453c-baad-edf7a9c30d14)
+
+Make Correct Directory. Click "assets" folder before you upload
+
+
+![Screenshot 2023-10-20 201246](https://github.com/directoryaudi/vault.github.io/assets/148554900/438c99b7-56a5-4c22-852d-cdc7bbcba98c)
+
+Make sure which part you want to upload ? Images or Video
+
+
 
 Go to Upload Pages
 1. First click Add File
