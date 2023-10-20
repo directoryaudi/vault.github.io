@@ -2,7 +2,7 @@
 
 ![Screenshot 2023-10-20 201211](https://github.com/directoryaudi/vault.github.io/assets/148554900/9878ee8d-81d2-453c-baad-edf7a9c30d14)
 
-Make Correct Directory. Click "assets" folder before you upload
+Make sure upload on correct directory. Click "assets" folder before you upload
 
 
 ![Screenshot 2023-10-20 201246](https://github.com/directoryaudi/vault.github.io/assets/148554900/438c99b7-56a5-4c22-852d-cdc7bbcba98c)
