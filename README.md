@@ -10,6 +10,7 @@ Make Correct Directory. Click "assets" folder before you upload
 Make sure which part you want to upload ? Images or Video
 
 
+![Screenshot 2023-10-20 201613](https://github.com/directoryaudi/vault.github.io/assets/148554900/10b7bb59-b2b8-4057-9485-5b0ead42ca24)
 
 Go to Upload Pages
 1. First click Add File
