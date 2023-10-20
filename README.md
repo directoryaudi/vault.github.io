@@ -9,7 +9,7 @@ Make sure upload on correct directory. Click "assets" folder before you upload
 
 Make sure which part you want to upload ? Images or Video
 
-
+<br><br>
 
 
 
@@ -19,7 +19,7 @@ Go to Upload Pages
 1. First click Add File
 2. Click upload files
 
-
+<br><br>
 
 
 How to Upload
