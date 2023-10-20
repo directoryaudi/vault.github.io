@@ -1,4 +1,4 @@
-#Uplaod your item on here for Alternative Directory
+<b><h1>Upload your item on here for Alternative Directory</h1></b>
 
 ![Screenshot 2023-10-20 201211](https://github.com/directoryaudi/vault.github.io/assets/148554900/9878ee8d-81d2-453c-baad-edf7a9c30d14)
 
